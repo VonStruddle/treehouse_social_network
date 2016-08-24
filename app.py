@@ -158,8 +158,8 @@ if __name__ == '__main__':
     models.initialize()
     try:
         models.User.create_user(
-            username='quentindurantay',
-            email='quentin.durantay@gmail.com',
+            username='vonstruddle',
+            email='dontexist@gmail.com',
             password='kikoolol',
             admin=True
         )
